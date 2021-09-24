@@ -1,0 +1,8 @@
+1 - ip privado = 192.168.1.38
+
+2 - ip publico = 152.250.127.4
+
+3 - MAC = 30-9C-23-AB-D9-B9 (Micro-Star INTL CO., LTD.)
+Micro-Star International Co., Ltd é uma empresa de produtos eletrônicos e de hardware sediada em Novo Taipé, Taiwan. É uma das maiores fabricantes de placas-mãe e placas de vídeo do mundo.
+
+4 - Classe de rede: Classe C.
